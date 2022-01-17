@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Seyoung Hwang 👋
+
+blog : nahwasa.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahwasa&show_icons=true&theme=gruvbox_light)
 
