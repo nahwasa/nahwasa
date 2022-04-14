@@ -4,7 +4,7 @@ blog : https://nahwasa.com
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nahwasa)](https://solved.ac/nahwasa)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahwasa&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<a href="https://opgc.me/#/users/nahwasa" target="_blank"><img src="https://api.opgc.me/githubs/users/nahwasa/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/nahwasa" target="_blank"><img src="https://api.opgc.me/githubs/users/nahwasa/tag/?theme=basic" /></a> -->
 
 <!--
 **NaHwaSa/nahwasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
