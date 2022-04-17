@@ -2,21 +2,19 @@
 
 blog : https://nahwasa.com
 
+<!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nahwasa)](https://solved.ac/nahwasa)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahwasa&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- <a href="https://opgc.me/#/users/nahwasa" target="_blank"><img src="https://api.opgc.me/githubs/users/nahwasa/tag/?theme=basic" /></a> -->
-
-<!--
-**NaHwaSa/nahwasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://opgc.me/#/users/nahwasa" target="_blank"><img src="https://api.opgc.me/githubs/users/nahwasa/tag/?theme=basic" /></a>
 -->
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nahwasa)](https://solved.ac/nahwasa)
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nahwasa&column=8&row=1&no-frame=true"/>
+</a>
+---
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nahwasa&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahwasa&layout=compact" />
+</div>
