@@ -13,7 +13,7 @@ blog : https://nahwasa.com
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nahwasa&column=8&row=1&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nahwasa&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ---
