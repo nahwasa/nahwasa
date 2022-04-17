@@ -11,7 +11,7 @@ blog : https://nahwasa.com
 <br/>
 <div>
   <a href="https://solved.ac/nahwasa"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahwasa"/></a>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nahwasa&count_private=true&include_all_commits=true&bg_color=30&title_color=fff&text_color=fff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nahwasa&count_private=true&include_all_commits=true" />
 </div>
 <div style='margin-top=20px;'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
