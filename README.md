@@ -11,7 +11,7 @@ blog : https://nahwasa.com
 <br/>
 <div>
   <a href="https://solved.ac/nahwasa"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahwasa"/></a>
-  <a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
+  <a href="https://solved.ac/nahwasa" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=nahwasa" alt="mazandi profile"/></a>
   <!--img height="170" src="https://github-readme-stats.vercel.app/api?username=nahwasa&count_private=true&include_all_commits=true"/-->
 </div>
 <div style='margin-top=20px;'>
