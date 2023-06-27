@@ -12,7 +12,7 @@ blog : https://nahwasa.com
 <div>
   <a href="https://solved.ac/nahwasa"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahwasa"/></a>
   <!--a href="https://solved.ac/nahwasa" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=nahwasa" alt="mazandi profile"/></a-->
-  <a href="https://opgc.me/#/users/nahwasa" target="_blank"><img src="https://api.opgc.me/githubs/users/nahwasa/tag/?theme=dracula" /></a>
+  <!--a href="https://opgc.me/#/users/nahwasa" target="_blank"><img src="https://api.opgc.me/githubs/users/nahwasa/tag/?theme=dracula" /></a-->
   <!--img height="170" src="https://github-readme-stats.vercel.app/api?username=nahwasa&count_private=true&include_all_commits=true"/-->
 </div>
 <div style='margin-top=20px;'>
