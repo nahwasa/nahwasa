@@ -20,3 +20,8 @@ blog : https://nahwasa.com
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=nahwasa&row=1&column=7"/>
   </a>
 </div>
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/nahwasa?pet-id=1" width="1000" height="120"/>
+</a>
+</div>
