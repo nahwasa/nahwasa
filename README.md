@@ -16,9 +16,7 @@ blog : https://nahwasa.com
   <!--img height="170" src="https://github-readme-stats.vercel.app/api?username=nahwasa&count_private=true&include_all_commits=true"/-->
 </div>
 <div style='margin-top=20px;'>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=nahwasa&row=1&column=7"/>
-  </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahwasa&theme=2077"/>
 </div>
 <div>
   <a href="https://github.com/devxb/gitanimals">
